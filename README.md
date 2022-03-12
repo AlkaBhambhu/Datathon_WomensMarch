@@ -5,6 +5,6 @@ This Datathon is part of The ‘Global Count’, a project of Women’s March Gl
 
 You can find more information about the organsiations below:
 
-* [DataforGood](www.linkedin.com/company/data-for-good-waterloo-region/)
+* [DataforGood](https://dataforgood.ca)
 
 * [Women's March Global](https://womensmarchglobal.org/about/)
